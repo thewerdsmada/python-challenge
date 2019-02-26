@@ -1,2 +1,2 @@
 # python-challenge
-homework for NU Data Science Bootcamp
+First Python Homework for NU Data Science Bootcamp
